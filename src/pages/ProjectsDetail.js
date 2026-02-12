@@ -3,7 +3,7 @@ const ProjectsDetail = [
         title: "The Collaboration Hub (A Platform for collaborating and sharing Resources)",
         description: "The Collaboration Hub is a robust, full-stack community ecosystem engineered with a React frontend and a Django REST Framework backend, backed by a relational PostgreSQL database. The platform facilitates knowledge-sharing by allowing users to post technical Topics and curate Resources—ranging from GitHub repositories to YouTube tutorials—while featuring a dual-layer security architecture with protected React routes and custom Django authentication classes. Unauthenticated users can explore the five core public pages to discover content, while authenticated members gain access to an interactive dashboard equipped with advanced data visualization—using Pie and Bar charts to analyze personal engagement metrics, like/dislike ratios, and monthly activity trends. To ensure industrial-grade scalability, the application implements server-side pagination for optimized data fetching and provides complete CRUD functionality through a personalized user portal, allowing for seamless management of resources, nested comments, and social voting, all while maintaining high-fidelity public profiles that showcase a contributor's community impact.",
         project_type: "Full Stack Web Project",
-        status: "Under-Development",
+        status: "Completed",
         repo_link: "https://github.com/ZohaibKhanDeveloper/CollaborativeResourceHub-Backend"
     },
     {
